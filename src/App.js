@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h2>CriptoPizza</h2>
-        <nav class="header_nav">
+        <nav className="header_nav">
           <a href="#">entrar</a>
           <a>cadastrar</a>
         </nav>
