@@ -6,11 +6,11 @@ function App() {
       <header className="App-header">
         <h2>CriptoPizza</h2>
         <nav className="header_nav">
-          <a>entrar</a>
+          <a href="#">entrar</a>
           <a>cadastrar</a>
         </nav>
       </header>
-      <p>test</p>
+      <p>teste</p>
     </div>
   );
 }
