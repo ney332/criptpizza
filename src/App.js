@@ -8,10 +8,13 @@ function App() {
         <h2>CriptoPizza</h2>
         <nav className="header_nav">
           <a href="#">entrar</a>
-          <a>cadastrar</a>
+          <a href="#">cadastrar</a>
         </nav>
       </header>
-      <p>teste</p>
+      <div className="hero">
+        <h1>hjdsahjshajkhdjskhajdshjkahjsakjadsjha</h1>
+      </div>
+      
     </div>
   );
 }
