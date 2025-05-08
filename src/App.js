@@ -11,7 +11,7 @@ function App() {
           <a href="#">cadastrar</a>
         </nav>
       </header>
-      <div className="hero">
+      <div class="hero">
         <h1>hjdsahjshajkhdjskhajdshjkahjsakjadsjha</h1>
       </div>
       

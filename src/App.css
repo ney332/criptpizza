@@ -5,14 +5,20 @@ header {
   justify-content: space-between;
   margin: 30px;
   margin-top: 20px;
+  border-bottom: 0.5px solid grey;
 }
 nav{
   display: flex;
   margin-left: 10px;
   align-items: center;
-  border-bottom: 0.5px solid grey;
 }
 nav a {
   margin-left: 10px;
+}
+.hero{
+  text-align: center;
+  justify-content: center;
+  height: 50%;
+  width: auto;
 }
 
