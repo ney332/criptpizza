@@ -1,3 +1,10 @@
 .App-header {
+  color: aliceblue;
   background-color: #282c34;
+  justify-content: space-between;
+  margin: 50px;
+}
+.header-nav{
+  display: flex;
+  margin-left: 10px;
 }

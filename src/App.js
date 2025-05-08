@@ -3,9 +3,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header classname="header">
+      <header classname="App-header">
         <h2>CriptoPizza</h2>
-        <nav className="barra_nav">
+        <nav className="header_nav">
           <a>entrar</a>
           <a>cadastrar</a>
         </nav>
