@@ -12,7 +12,7 @@ function App() {
         </nav>
       </header>
       <div class="hero">
-        <h1>hjdsahjshajkhdjskhajdshjkahjsakjadsjha</h1>
+        <h1></h1>
       </div>
       
     </div>
