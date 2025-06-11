@@ -1,20 +1,13 @@
-import './App.css';
-import './index.css';
+import RoutesApp from './routes';
+import { ToastContainer } from 'react-toastify';
+
+import 'react-toastify/dist/ReactToastify.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h2>CriptoPizza</h2>
-        <nav className="header_nav">
-          <a href="#">entrar</a>
-          <a href="#">cadastrar</a>
-        </nav>
-      </header>
-      <div class="hero">
-        <h1></h1>
-      </div>
-      
+      <ToastContainer autoClose={3000}/>
+      <RoutesApp/>
     </div>
   );
 }
